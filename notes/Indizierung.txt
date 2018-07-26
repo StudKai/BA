@@ -1,0 +1,18 @@
+- Wo befindet sich jedes einzelne Wort? (Seite, Zeile, Wortnr/Spalte)
+
+- Wörter, die nah beieinander liegen
+
+- Wörter finden über Wildcards
+
+- Wörter sortieren über Häufigkeit in deutscher Sprache
+
+-  Stichworte werden im zu indizierenden Text/Dokument verwandt. Der Indexierer verwendet zur Indexerstellung Stichworte aus dem Text.
+
+- Schlagworte sind nicht Inhalt des Texts. Der Indexierer stellt eine assoziative Verbindung von Textinhalt mit dem konkreten Schlagwort her.
+
+
+
+
+http://theo.cs.ovgu.de/lehre05w/ti2_fern/folien/folien4.pdf
+https://de.wikipedia.org/wiki/Suffixbaum
+https://dbs.uni-leipzig.de/skripte/ADS2/PDF2/kap4.pdf
