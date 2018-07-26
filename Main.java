@@ -1,5 +1,6 @@
 package analysisIndexing;
 
+import java.io.IOException;
 import java.util.HashMap;
 import analysisIndexing.analysis.*;
 import analysisIndexing.analysis.Sorting.SortMapBy;
@@ -14,9 +15,22 @@ public class Main {
 		HashMap<String, Integer> wordsNumberMapSByK;
 		HashMap<String, Integer> wordsNumberMapSByV;
 		String text;
-		WordCounter wordCounter = new WordCounter();
+		String textStd = "hallo du da.. hallo er da,    er Sie sie \n \"Der\" Herr Platz\tKönner\nKönner.\'hallo";
+		WordCounter wordCounter = new WordCounter();		
 		
-		text = "hallo du da.. hallo er da,    er Sie sie \n \"Der\" Herr Platz\tKönner\nKönner.\'hallo";
+		if (args.length > 0)
+		{			
+			try {
+				text = File.read(args[0]);
+			}
+			catch (IOException ex) {
+				System.out.println("Error while reading file: " + ex.getMessage() + "\n Standard text will be used.\n");
+				text = textStd;
+			}
+		}
+		else {
+			text = textStd;
+		}		
 		
 		System.out.println("Text:");
 		System.out.println(text + "\n");

@@ -15,6 +15,7 @@ public class WordCounter {
 		words = text.split(" ");
 		
 		for (String w : words) {
+			if (w.length() < 1) continue;
 			if (wordsNumberMap.containsKey(w)) {
 				wordsNumberMap.put(w, wordsNumberMap.get(w) + 1);
 			}
@@ -85,7 +86,7 @@ public class WordCounter {
 			word = it.next();
 			number = wordsNumberMap.get(word);
 			
-			System.out.println(String.valueOf(i++) + ".\t" + word + ":\t" + String.valueOf(number));
+			System.out.println(String.valueOf(i++) + ".\t" + word + ": " + String.valueOf(number));
 		}
 	}
 	
