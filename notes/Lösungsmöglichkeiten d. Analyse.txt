@@ -1,0 +1,33 @@
+Wörter (und Teilsätze) im Satz zählen:
+    - Maximal 18 Wörter (https://www.lingulab.de/content/textwerkstatt/die-besten-tipps-fuer-verstaendliche-texte/kurz-statt-lang/)
+    (- Nicht mehr als zwei Teilsätze (Subjekt-Prädikat-Erkennung notwendig)
+
+Keine ausgeschriebenen Zahlen
+    - Zahlenkonvertierung aller Wörter
+
+Verweise auf andere Paragraphen/Gesetze
+    - Suche z. B. nach §
+
+Wortwiederholungen in einem oder im darauffolgenden Satz
+    - Wortzählung innerhalb in einem oder zwei Sätzen statt nur im ganzen Text
+
+
+Wörter, die nah beieinander liegen
+    - User gibt maximale Wortdifferenz ein
+    - Alle Wörter in einer Datenstruktur mit wiederholbaren Werten vorhanden sein (Liste oder Array)
+
+Absätze
+    - <a> bei HTML
+
+Zipfsches Gesetz (relative Häufigkeit der Wörter über Rangfolge)
+    - Berechnen mit Formel
+
+
+Bei allen anderen wird eine Wöterdatenbank benötigt.
+
+Download area for de-en.txt - a German-English dictionary file:
+http://ftp.tu-chemnitz.de/pub/Local/urz/ding/de-en/
+
+openthesaurus (Synonyme und Assoziationen)
+https://www.openthesaurus.de/about/api
+https://www.openthesaurus.de/about/download 

@@ -1,0 +1,34 @@
+aus http://www.textanalyse-tool.de/
+=============================
+
+- Lange Wörter bzw. zusammengestzte Wörter
+- Lange Sätze
+- Nominalstil (Häufung von Substantiven [die von Verben abgeleitet sind])
+- Keine ausgeschriebenen Zahlen
+
+
+Überlegt aus http://hdr.bmj.de/page_b.1.html (Allgemeine Empfehlungen für das Formulieren von Rechtsvorschriften)
+======================================
+
+- Vermeidbare Mode-/Fremd-/Fachwörter/ (wie Eigentum/Besitz) (Statt "global" besser "weltweit")
+- Wörter mit unterschiedlichen Bedeutungen (je nach dem Regelungszusammenhang) (Überprüfung mit Hilfe der Datenbank des Bundesrechts bei juris (Rn. 
+29 ff., http://hdr.bmj.de/page_a.6.html#an_29)) (https://www.juris.de/)
+- Haupt- und Nebensätze in einem Satz (Möglichst nur ein Hauptsatz und nicht mehr als ein Nebensatz!)
+- Verben, Anzahl Substantive (Bevorzugen Sie Verben! Vermeiden Sie Substantive!)
+- Passiv, Aktiv (Vermeiden Sie das Passiv, verwenden Sie das Aktiv!)
+- Partizipialkonstruktionen, Relativsätze (Vermeiden Sie Attributketten, vor allem umfangreiche Partizipialkonstruktionen! Verwenden Sie stattdessen 
+Relativsätze!)
+- Verweise auf andere Paragraphen/Gesetze
+- Einheitlichkeit der Normensprache ("auf Grund" statt "aufgrund"; "selbständig" statt "selbstständig")
+- Wörter aus der Umgangssprache
+- Veraltete Wörter ("Prozent" vs. "vom Hundert")
+- Wortwiederholungen in einem oder im darauffolgenden Satz  (auch aus Wortfamilie) ("Der Arbeitgeber ist berechtigt, das Recht aufzugeben": berechtigt, 
+Recht)
+- Absätze
+- Suche nach bestimmten Prä-/In- und Suffixen
+- Zipfsches Gesetz (relative Häufigkeit der Wörter über Rangfolge)
+
+Sonstiges:
+=========
+
+- Wörter, die nah beieinander liegen 
